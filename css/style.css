@@ -109,6 +109,12 @@ footer .social-links{
     margin: 2rem 0 2rem;
 
 }
+.social-links a{
+    color: #fff;
+}
+.social-links a:hover{
+    color: #fff;
+}
 @media only screen  and (max-width:600px)
 {   
     .caption{
